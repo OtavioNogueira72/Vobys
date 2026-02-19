@@ -75,4 +75,4 @@ A lógica adotada segue os seguintes princípios:
 
 ---
 
-Fico à disposição para apresentar a solução, esclarecer decisões adotadas e discutir possíveis evoluções.
+Inseri uma apresentação da solução proposta (Apresentacao_Teste__Folha_RH_Parametrizacao_Otavio_Nogueira_20260219.pdf) e me coloco a disposição para apresentá-la e discutir possíveis evoluções.
